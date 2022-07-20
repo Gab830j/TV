@@ -1,1 +1,1 @@
-{ "list":"http://cdn.xcore.ca:80/get.php?username=9uvhkg&password=uixeh9&type=m3u_plus", "validity": "true", "epg":"http://cdn.xcore.ca:80/xmltv.php?username=9uvhkg&password=uixeh9&type=m3u_plus", "success": true, "notifications": "" }
+{ "list":"http://cdn.xcore.ca:80/get.php?username=9uvhkg&password=uixeh9&type=m3u_plus", "validity": "true", "epg":"http://cdn.xcore.ca:80/get.php?username=9uvhkg&password=uixeh9&type=m3u_plus", "success": true, "notifications": "" }
